@@ -19,10 +19,10 @@ Date: 8-10-2021 | Author: SH4D0WS_
 3. Ran outguess on ```welcome.jpg``` revealed ```welcome.out```.
 4. PGP key ID Cicada: 7A35090F
 5. Mayan numbers in the top of Reddit page.
-6. Mayan numbers revealed: 10 2 14 7 19 6 18 12 7 8 17 0 19
-7. Reddit title is a2e7j6ic78h0j7eiejd0120
+6. Mayan numbers revealed: ```10 2 14 7 19 6 18 12 7 8 17 0 19```
+7. Reddit title is ```a2e7j6ic78h0j7eiejd0120```
 8. Translate remaining title to mayan numbers
-9. Mayan numbers revealed: 10 2 14 7 19 6 18 12 7 8 17 0 19 7 14 18 14 19 13 0 1 2 0
+9. Mayan numbers revealed: ```10 2 14 7 19 6 18 12 7 8 17 0 19 7 14 18 14 19 13 0 1 2 0```
 10. Translations underneath:
 ```
 a -> 10
@@ -34,10 +34,10 @@ h -> 17
 ```
 11. A = 0, B = 1, C = 2, etc.
 12. Numbers to position in alphabet revealed: ```kcohtgsmhirathosotnabca```.
-13. Text is first letter from King Arthur text from the book The Mabinogion.
+13. Text is first letter from ```King Arthur text``` from the book ```The Mabinogion```.
 
 # 4. The Mabinogion book cipher
-1. Book cipher from ```final.out``` applied on The Mabinogion.
+1. Book cipher from ```final.out``` applied on ```The Mabinogion```.
 2. Book cipher revealed text: ```Call us at us tele phone numBer two one four three nine oh nine six oh eight```.
 3. Cell phone number: ```+ 1 214 390 6908```.
 
