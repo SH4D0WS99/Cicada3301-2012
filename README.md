@@ -1,8 +1,8 @@
-# Walkthrough and guide for the Cicada 3301 2013 puzzle
+# Walkthrough and guide for the Cicada 3301 2012 puzzle
 Author: @SH4D0WS99
 
 ## 1️⃣ What is this?
-This is a complete walkthrough and guide for the Cicada 3301 2013 puzzle.
+This is a complete walkthrough and guide for the Cicada 3301 2012 puzzle.
 
 ## 2️⃣ Where is the walkthrough located?
 The walkthrough is located in the file called [2012writeup.md](2012writeup.md).
