@@ -78,4 +78,4 @@ h -> 17
 1. Book cipher revealed deep web link: ```sq6wmgv2zcsrix6t.onion```.
 
 # 9. Onion deep web link
-2. End of 2012 puzzle.
+1. End of 2012 puzzle.
