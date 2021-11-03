@@ -7,7 +7,7 @@ Date: 8-10-2021 | Author: SH4D0WS_
 2. Open with text editor revealed text at end of file: ```TIBERIVS CLAVDIVS CAESAR says "lxxt>33m2mqkyv2gsq3q=w]O2ntk"```.
 3. Caesar cypher decode revealed link: ```http://i.imgur.com/m9sYK.jpg```.
 
-# 2. duck.jpg
+# 2. m9sYK.jpg
 1. Downloaded the ```m9sYK.jpg```.
 2. Ran outguess on ```final.jpg``` revealed ```final.out```.
 3. Ran outguess on ```m9sYK.jpg``` failed.
